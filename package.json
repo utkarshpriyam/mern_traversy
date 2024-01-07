@@ -4,7 +4,7 @@
   "description": "Mern traversy YT",
   "main": "server.js",
   "scripts": {
-    "start": "node backend/server.js",
+    "start": "nodemon",
     "server": "nodemon backend/server.js"
   },
   "author": "",
